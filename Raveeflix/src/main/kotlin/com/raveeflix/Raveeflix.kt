@@ -10,7 +10,7 @@ import org.jsoup.nodes.Element
 import org.jsoup.select.Elements
 
 class Raveeflix : MainAPI() {
-    override var mainUrl = "https://letflix.xyz"
+    override var mainUrl = "https://letflix.mom"
     override var name = "Raveeflix"
     override val hasMainPage = true
     override var lang = "id"
