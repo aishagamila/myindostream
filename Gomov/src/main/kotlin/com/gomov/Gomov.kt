@@ -11,7 +11,7 @@ import org.jsoup.nodes.Element
 
 open class Gomov : MainAPI() {
 
-    override var mainUrl = "https://185.173.38.216"
+    override var mainUrl = "https://gomov.top/"
 
     private var directUrl: String? = null
     override var name = "Gomov"
