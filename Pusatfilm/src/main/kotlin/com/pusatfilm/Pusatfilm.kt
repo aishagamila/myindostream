@@ -13,7 +13,7 @@ import org.jsoup.nodes.Element
 
 class Pusatfilm : MainAPI() {
 
-    override var mainUrl = "https://pf21.xyz"
+    override var mainUrl = "http://217.76.53.139/"
 
     override var name = "Pusatfilm"
     override val hasMainPage = true
