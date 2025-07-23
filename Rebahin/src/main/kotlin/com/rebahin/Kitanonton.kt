@@ -3,9 +3,9 @@ package com.rebahin
 import com.lagradost.cloudstream3.*
 
 class Kitanonton : Rebahin() {
-    override var mainUrl = "http://kitanonton.cloud"
+    override var mainUrl = "https://kitanonton2.pics"
     override var name = "KitaNonton"
-    override var mainServer = "https://kitanonton.cloud"
+    override var mainServer = "https://kitanonton2.pics"
 
     override val mainPage =
             mainPageOf(
